@@ -1,0 +1,742 @@
+﻿<DocInternals>
+  <AlwaysLoose>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+  </AlwaysLoose>
+  <FieldSrcTables>
+    <String>6</String>
+    <String>2</String>
+    <String>Aircraft Types</String>
+    <String>Main Data</String>
+    <String>7</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>8</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>9</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>10</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>11</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>12</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>13</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>14</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>15</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>16</String>
+    <String>1</String>
+    <String>Aircraft Types</String>
+    <String>17</String>
+    <String>2</String>
+    <String>Link Table</String>
+    <String>Airlines</String>
+    <String>18</String>
+    <String>2</String>
+    <String>Link Table</String>
+    <String>Carrier Groups</String>
+    <String>19</String>
+    <String>1</String>
+    <String>Link Table</String>
+    <String>20</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>21</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Carrier Operating Region</String>
+    <String>22</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Origin Airports</String>
+    <String>23</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>24</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Origin Markets</String>
+    <String>25</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>26</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Destination Airports</String>
+    <String>27</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>28</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Destination Markets</String>
+    <String>29</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>30</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>31</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>32</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Distance Groups</String>
+    <String>33</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>34</String>
+    <String>2</String>
+    <String>Main Data</String>
+    <String>Flight Types</String>
+    <String>35</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>36</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>37</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>38</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>39</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>40</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>41</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>42</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>43</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>44</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>45</String>
+    <String>1</String>
+    <String>Link Table</String>
+    <String>46</String>
+    <String>1</String>
+    <String>Link Table</String>
+    <String>47</String>
+    <String>1</String>
+    <String>Link Table</String>
+    <String>48</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>49</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>50</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>51</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>52</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>53</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>54</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>55</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>56</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>57</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>58</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>59</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>60</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>61</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>62</String>
+    <String>2</String>
+    <String>Master Calendar</String>
+    <String>Link Table</String>
+    <String>63</String>
+    <String>3</String>
+    <String>Main Data</String>
+    <String>Employment Statistics</String>
+    <String>Link Table</String>
+    <String>64</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>65</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>66</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>67</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>68</String>
+    <String>1</String>
+    <String>Main Data</String>
+    <String>69</String>
+    <String>1</String>
+    <String>Employment Statistics</String>
+    <String>70</String>
+    <String>1</String>
+    <String>Employment Statistics</String>
+    <String>71</String>
+    <String>1</String>
+    <String>Employment Statistics</String>
+    <String>72</String>
+    <String>1</String>
+    <String>Employment Statistics</String>
+    <String>73</String>
+    <String>1</String>
+    <String>Master Calendar</String>
+    <String>74</String>
+    <String>1</String>
+    <String>Master Calendar</String>
+    <String>75</String>
+    <String>1</String>
+    <String>Master Calendar</String>
+    <String>76</String>
+    <String>1</String>
+    <String>Master Calendar</String>
+    <String>77</String>
+    <String>1</String>
+    <String>Carrier Groups</String>
+    <String>78</String>
+    <String>1</String>
+    <String>Airlines</String>
+    <String>79</String>
+    <String>1</String>
+    <String>Carrier Operating Region</String>
+    <String>80</String>
+    <String>1</String>
+    <String>Flight Types</String>
+    <String>81</String>
+    <String>1</String>
+    <String>Distance Groups</String>
+    <String>82</String>
+    <String>1</String>
+    <String>Destination Airports</String>
+    <String>83</String>
+    <String>1</String>
+    <String>Origin Airports</String>
+    <String>84</String>
+    <String>1</String>
+    <String>Origin Markets</String>
+    <String>85</String>
+    <String>1</String>
+    <String>Destination Markets</String>
+    <String>86</String>
+    <String>1</String>
+    <String>INLA2F6</String>
+    <String>87</String>
+    <String>1</String>
+    <String>INLA2F6</String>
+  </FieldSrcTables>
+  <TableViewData>
+    <CtlInfo>
+      <InternalView>
+        <Tables>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>540</Left>
+              <Top>240</Top>
+              <Width>260</Width>
+              <Height>338</Height>
+            </Pos>
+            <Caption>Main Data</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>64</Left>
+              <Top>274</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Carrier Groups</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>74</Left>
+              <Top>155</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Airlines</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1107</Left>
+              <Top>373</Top>
+              <Width>176</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Carrier Operating Region</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1102</Left>
+              <Top>128</Top>
+              <Width>150</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Flight Types</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>66</Left>
+              <Top>260</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Aircrafts Group</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>69</Left>
+              <Top>139</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Aircrafts Types</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>350</Left>
+              <Top>18</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Distance Groups</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>206</Left>
+              <Top>501</Top>
+              <Width>154</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Destination Airports</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1111</Left>
+              <Top>466</Top>
+              <Width>177</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Origin Airports</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>282</Left>
+              <Top>594</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Origin Markets</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>521</Left>
+              <Top>38</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>Destination Markets</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>1106</Left>
+              <Top>254</Top>
+              <Width>166</Width>
+              <Height>90</Height>
+            </Pos>
+            <Caption>Aircraft Types</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>243</Left>
+              <Top>70</Top>
+              <Width>100</Width>
+              <Height>118</Height>
+            </Pos>
+            <Caption>Employment Statistics</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>62</Left>
+              <Top>379</Top>
+              <Width>100</Width>
+              <Height>118</Height>
+            </Pos>
+            <Caption>Master Calendar</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>301</Left>
+              <Top>232</Top>
+              <Width>100</Width>
+              <Height>172</Height>
+            </Pos>
+            <Caption>Link Table</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>689</Left>
+              <Top>58</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>INLA2F6</Caption>
+          </TableViewTableWinSaveInfo>
+        </Tables>
+      </InternalView>
+    </CtlInfo>
+  </TableViewData>
+  <SavedByVersion>11.00.11149.0409</SavedByVersion>
+  <FieldTags>
+    <ScriptBased>
+      <FieldTagData>
+        <Tag>$key</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>%Aircraft Type ID</String>
+          <String>%Airline ID</String>
+          <String>%Carrier Group ID</String>
+          <String>%Region Code</String>
+          <String>%Origin Airport ID</String>
+          <String>%Origin Airport Market ID</String>
+          <String>%Destination Airport ID</String>
+          <String>%Destination Airport Market ID</String>
+          <String>%Distance Group ID</String>
+          <String>%Datasource ID</String>
+          <String>Period</String>
+          <String>%Key Field</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$hidden</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$system</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$ascii</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>Aircraft Name</String>
+          <String>Aircraft Manufacturer</String>
+          <String>Aircraft Manufacturer Country</String>
+          <String>Aircraft Name Full</String>
+          <String>Aircraft Abbreviated</String>
+          <String>Aircraft End Date</String>
+          <String>Aircraft Age Classification</String>
+          <String>Aircraft Engine Type</String>
+          <String>Aircraft Number Of Engines</String>
+          <String>%Region Code</String>
+          <String>%Service Class ID</String>
+          <String>%Datasource ID</String>
+          <String>Unique Carrier</String>
+          <String>Carrier Name</String>
+          <String>Origin Airport Code</String>
+          <String>Origin City</String>
+          <String>Origin State Code</String>
+          <String>Origin State</String>
+          <String>Origin Country Code</String>
+          <String>Origin Country</String>
+          <String>Destination Airport Code</String>
+          <String>Destination City</String>
+          <String>Destination State Code</String>
+          <String>Destination State</String>
+          <String>Destination Country Code</String>
+          <String>Destination Country</String>
+          <String>%Key Field</String>
+          <String>From - To Airport Code</String>
+          <String>From - To Airport ID</String>
+          <String>From - To City</String>
+          <String>From - To State Code</String>
+          <String>From - To State</String>
+          <String>Quarter</String>
+          <String>Carrier Group</String>
+          <String>Airline</String>
+          <String>Carrier's Operating Region</String>
+          <String>Flight Type</String>
+          <String>Distance Interval</String>
+          <String>Destination Airport</String>
+          <String>Origin Airport</String>
+          <String>Origin Market</String>
+          <String>Destination Market</String>
+          <String>Metric Name</String>
+          <String>eMetric</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$text</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>Aircraft Name</String>
+          <String>Aircraft Manufacturer</String>
+          <String>Aircraft Manufacturer Country</String>
+          <String>Aircraft Name Full</String>
+          <String>Aircraft Abbreviated</String>
+          <String>Aircraft End Date</String>
+          <String>Aircraft Age Classification</String>
+          <String>Aircraft Engine Type</String>
+          <String>Aircraft Number Of Engines</String>
+          <String>%Region Code</String>
+          <String>%Service Class ID</String>
+          <String>%Datasource ID</String>
+          <String>Unique Carrier</String>
+          <String>Carrier Name</String>
+          <String>Origin Airport Code</String>
+          <String>Origin City</String>
+          <String>Origin State Code</String>
+          <String>Origin State</String>
+          <String>Origin Country Code</String>
+          <String>Origin Country</String>
+          <String>Destination Airport Code</String>
+          <String>Destination City</String>
+          <String>Destination State Code</String>
+          <String>Destination State</String>
+          <String>Destination Country Code</String>
+          <String>Destination Country</String>
+          <String>%Key Field</String>
+          <String>From - To Airport Code</String>
+          <String>From - To Airport ID</String>
+          <String>From - To City</String>
+          <String>From - To State Code</String>
+          <String>From - To State</String>
+          <String>Quarter</String>
+          <String>Carrier Group</String>
+          <String>Airline</String>
+          <String>Carrier's Operating Region</String>
+          <String>Flight Type</String>
+          <String>Distance Interval</String>
+          <String>Destination Airport</String>
+          <String>Origin Airport</String>
+          <String>Origin Market</String>
+          <String>Destination Market</String>
+          <String>Metric Name</String>
+          <String>eMetric</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$numeric</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>%Aircraft Type ID</String>
+          <String>Aircraft Begin Date</String>
+          <String>%Airline ID</String>
+          <String>%Carrier Group ID</String>
+          <String>%Origin Airport ID</String>
+          <String>%Origin Airport Sequence ID</String>
+          <String>%Origin Airport Market ID</String>
+          <String>%Origin World Area Code</String>
+          <String>%Destination Airport ID</String>
+          <String>%Destination Airport Sequence ID</String>
+          <String>%Destination Airport Market ID</String>
+          <String>%Destination World Area Code</String>
+          <String>%Aircraft Group ID</String>
+          <String>%Aircraft Configuration ID</String>
+          <String>%Distance Group ID</String>
+          <String># Departures Scheduled</String>
+          <String># Departures Performed</String>
+          <String># Payload</String>
+          <String>Distance</String>
+          <String># Available Seats</String>
+          <String># Transported Passengers</String>
+          <String># Transported Freight</String>
+          <String># Transported Mail</String>
+          <String># Ramp-To-Ramp Time</String>
+          <String># Air Time</String>
+          <String>Origin State FIPS</String>
+          <String>Period</String>
+          <String># Full Time Employees</String>
+          <String># Part Time Employees</String>
+          <String># Total Employees</String>
+          <String># Equivalent FTEs</String>
+          <String>Year</String>
+          <String>Month</String>
+          <String>Year - Month</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$integer</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>%Aircraft Type ID</String>
+          <String>Aircraft Begin Date</String>
+          <String>%Airline ID</String>
+          <String>%Carrier Group ID</String>
+          <String>%Origin Airport ID</String>
+          <String>%Origin Airport Sequence ID</String>
+          <String>%Origin Airport Market ID</String>
+          <String>%Origin World Area Code</String>
+          <String>%Destination Airport ID</String>
+          <String>%Destination Airport Sequence ID</String>
+          <String>%Destination Airport Market ID</String>
+          <String>%Destination World Area Code</String>
+          <String>%Aircraft Group ID</String>
+          <String>%Aircraft Configuration ID</String>
+          <String>%Distance Group ID</String>
+          <String># Departures Scheduled</String>
+          <String># Departures Performed</String>
+          <String># Payload</String>
+          <String>Distance</String>
+          <String># Available Seats</String>
+          <String># Transported Passengers</String>
+          <String># Transported Freight</String>
+          <String># Transported Mail</String>
+          <String># Ramp-To-Ramp Time</String>
+          <String># Air Time</String>
+          <String>Origin State FIPS</String>
+          <String>Period</String>
+          <String># Full Time Employees</String>
+          <String># Part Time Employees</String>
+          <String># Total Employees</String>
+          <String># Equivalent FTEs</String>
+          <String>Year</String>
+          <String>Month</String>
+          <String>Year - Month</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$timestamp</Tag>
+        <FieldNames>
+          <String>%Origin Airport Market ID</String>
+          <String>%Destination Airport Market ID</String>
+          <String>Year - Month</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$date</Tag>
+        <FieldNames>
+          <String>%Origin Airport Market ID</String>
+          <String>%Destination Airport Market ID</String>
+          <String>Year - Month</String>
+        </FieldNames>
+      </FieldTagData>
+    </ScriptBased>
+  </FieldTags>
+  <FieldComments>
+    <Comment>
+      <Name>%Aircraft Type ID</Name>
+      <Comment>Primary key of the Aircraft Type dimension</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Name</Name>
+      <Comment>The name of the aircraft</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Manufacturer</Name>
+      <Comment>The name of the manufacturer of the aircraft, left blank when the aircraft is a generic type</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Manufacturer Country</Name>
+      <Comment>The country in which the manufacturer of the aircraft is based</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Name Full</Name>
+      <Comment>The full name of the aircraft</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Name Abbreviated</Name>
+      <Comment>The abbreviated name of the aircraft</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Begin Date</Name>
+      <Comment>The date when the aircraft was first entered into the database</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft End Date</Name>
+      <Comment>The date when the aircraft was removed from the database</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Engine Type</Name>
+      <Comment>The engine type of the aircraft: Helicopter, Piston, Turbo-Prop or Jet</Comment>
+    </Comment>
+    <Comment>
+      <Name>Aircraft Number Of Engines</Name>
+      <Comment>The number of engines on the aircraft</Comment>
+    </Comment>
+  </FieldComments>
+  <TableComments>
+    <Comment>
+      <Name>Aircraft Types</Name>
+      <Comment>Dimension containing information on aircrafts, including engine types and configuration and manufacturer</Comment>
+    </Comment>
+  </TableComments>
+</DocInternals>

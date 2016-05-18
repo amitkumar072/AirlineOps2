@@ -1,0 +1,11 @@
+﻿<Report>
+  <PrintOptions>
+    <PrintCurrentSelectionPosition>NO_SELECTION</PrintCurrentSelectionPosition>
+  </PrintOptions>
+  <Name>Static Report</Name>
+  <LastPaperHeightMM>297</LastPaperHeightMM>
+  <LastPaperWidthMM>210</LastPaperWidthMM>
+  <DynamicName>
+    <v>Static Report</v>
+  </DynamicName>
+</Report>
